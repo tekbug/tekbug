@@ -1,6 +1,9 @@
 # WELCOME 👐
 
-I’m currently working on building my own database, docker engine, and replit-ish ide.
-My current language preference are: **elixir**, **spring boot**, **vuejs** and **rust**.
+- My current projects are: **Database on Rust**, **Docker Engine on C**, and **HTTP Server on Elixir (and/or) C/C++**.
+- My current language preferences are: **Elixir**, and **Rust**.
+- My current framework preferences are: **Spring Boot**, **NextJS**, **Phoenix**, and **Rails**.
+- My current interest is on: **Systems Engineering**, **System Design**, and **Low-Level Programming**.
+- My plan after 6 month is to work on: **Reverse Engineering**, and **Embedded Systems**.
 
-### INTRO WILL BE UPDATED AS WE GO! ENJOY FOR NOW!
+### Page will be updated in order. But for now, Enjoy! 🙌
