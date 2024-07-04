@@ -1,6 +1,6 @@
 # WELCOME 👐
 
-- My current projects are: **Database on Rust**, **Docker Engine on C**, and **HTTP Server on Elixir (and/or) C/C++**.
+- My current projects are: **Database on Rust**, **Docker Engine on C**, and **HTTP Server on Elixir (and/or) C/C++** inspired by[ Build Your Own X]([url](https://github.com/codecrafters-io/build-your-own-x)) from Codecrafters.
 - My current language preferences are: **Elixir**, and **Rust**.
 - My current framework preferences are: **Spring Boot**, **NextJS**, **Phoenix**, and **Rails**.
 - My current interest is on: **Systems Engineering**, **System Design**, and **Low-Level Programming**.
