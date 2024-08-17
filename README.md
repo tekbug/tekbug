@@ -8,7 +8,7 @@
 - My plan after 6 months is to work on: **Reverse Engineering**, and **Embedded Systems**.
 
 - I have an extensive experience in writing codes using **Java**, and **Python**.
-- I write random thoughts that I have on [Telegram](https://t.me/curiositypub).
+- Open to work.
 - I have a [personal website](https://tekbugz.me) as my portfolio and other related matters, not currently finished but it will be.
 
 ### Page will be updated in order. But for now, Enjoy! 🙌
