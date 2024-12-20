@@ -7,6 +7,7 @@
 - My current interest is on: **Systems Engineering**, **System Design**, and **Low-Level Programming**.
 - My plan after 6 months is to work on: **Reverse Engineering**, and **Embedded Systems**.
 - I have an extensive experience in writing codes using **Java**, and **Python**.
+
 - Open to offers.
 - I have a [personal website](https://tekbugz.me) as my portfolio and other related matters, not actively built right now but it will be.
 
